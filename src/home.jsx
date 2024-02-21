@@ -29,7 +29,7 @@ const Home = () => {
       </Helmet>
       Home
       <FacebookShareButton
-        url={"https://social-sharing-nextjs-check.vercel.app/newpage"}
+        url={"https://react-social-test-delete-2mdp.vercel.app/"}
       >
         <FacebookIcon size={32} round={true} style={{ color: "black" }} />
       </FacebookShareButton>
